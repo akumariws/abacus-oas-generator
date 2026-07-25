@@ -1,1 +1,8 @@
-
+click>=8.1.7
+pyyaml>=6.0.2
+jinja2>=3.1.4
+inflect>=7.3.1
+orjson>=3.10.7
+jsonschema>=4.23.0
+networkx>=3.3
+rich>=13.7.1
